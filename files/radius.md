@@ -163,7 +163,7 @@ For this stage, I examined two aspects of the data: geographical distribution an
 Below is a coordinate map of the log number of businesses per zip code across the continental US. Darker green 
 indicates a higher number.
 
-[![N|Solid](https://github.com/danabeuschel/radius/files/zip_plot.png)]
+[![N|Solid](https://github.com/danabeuschel/radius/blob/master/files/zip_plot.png)]
 
 The map indicates a higher concentration of ZIP codes with _any_ businesses in the eastern half of the country and greater 
 sparsity in the Rocky Mountain area. Mid-to-large cities are clearly visible as the darker shades of green. In fact, the 

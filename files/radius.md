@@ -167,7 +167,7 @@ indicates a higher number.
 
 The map indicates a higher concentration of ZIP codes with _any_ businesses in the eastern half of the country and greater 
 sparsity in the Rocky Mountain area. Mid-to-large cities are clearly visible as the darker shades of green. In fact, the 
-geographic pattern is quite similar to that found in night-time satellite imagery, indicating a strong association with 
+geographic pattern is quite similar to that found in night-time [satellite imagery], indicating a strong association with 
 population density. This suggests that the data are geographically representative of the population, and do not appear to 
 favor certain regions, or large metros in general.
 
